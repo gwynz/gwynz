@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<img src="https://a0.muscache.com/im/pictures/658c5d58-b6df-49f3-8873-59cd55acd3b8.jpg?im_w=720" />
 <!--
 **gwynz/gwynz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
