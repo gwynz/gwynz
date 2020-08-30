@@ -2,7 +2,7 @@
 
 🌱🌱🌱
 
-<img src="https://scontent.fsgn5-7.fna.fbcdn.net/v/t31.0-8/20424226_1898863387020874_7239188304298201310_o.jpg?_nc_cat=103&_nc_sid=19026a&_nc_ohc=Q0sKcOXHx2MAX-h44ms&_nc_ht=scontent.fsgn5-7.fna&oh=4b6cfecf0b7f200890c15427c3cebff1&oe=5F723EA3"/>
+<img src="https://res.cloudinary.com/gwynz/image/upload/v1598755278/Images/m97zruohs1ndk2bonpo5.jpg"/>
 
 <!--
 **gwynz/gwynz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
