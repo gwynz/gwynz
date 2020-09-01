@@ -4,6 +4,8 @@
 
 <img src="https://res.cloudinary.com/gwynz/image/upload/v1598755278/Images/m97zruohs1ndk2bonpo5.jpg"/>
 
+[![gwynz's github stats](https://github-readme-stats.vercel.app/api?username=gwynz)](https://github.com/gwynz)
+
 <!--
 **gwynz/gwynz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
