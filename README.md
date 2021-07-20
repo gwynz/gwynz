@@ -8,12 +8,15 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gwynz&show_icons=true&theme=gotham" alt="github stats" width="65%" />
 
 
+[![gwynz's github stats](https://github-readme-stats.vercel.app/api?username=gwynz)](https://github.com/gwynz)
+
+
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gwynz&theme=dark" width="48%" >
 
 
 ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwynz&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwynz&layout=compact&theme=dark)
 
 <!--
 **gwynz/gwynz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
