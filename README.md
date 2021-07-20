@@ -4,11 +4,9 @@
 
 <img src="https://res.cloudinary.com/gwynz/image/upload/v1598755278/Images/m97zruohs1ndk2bonpo5.jpg"/>
 
+
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=gwynz&show_icons=true&theme=gotham" alt="github stats" width="65%" />
-
-
-[![gwynz's github stats](https://github-readme-stats.vercel.app/api?username=gwynz)](https://github.com/gwynz)
 
 
 ### Github Streaks
